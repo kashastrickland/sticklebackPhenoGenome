@@ -1,7 +1,7 @@
 # sticklebackPhenoGenome
 Phenotypic and meta data for "Microevolutionary change in wild stickleback: using integrative time-series data to infer responses to selection"
 
-"phenotypedata.csv": All phenotypic data generated in this study and needed to replicate analyses of phenotypic change through time. Note that not all fish have all data associated with them, and therefore the total sample sizes for each phenotype are slightly different. These missing data were caused by, for instance, gill rakers breaking upon dissection, staining not working and guts having been dissected previously. This dataset includes the following variables:
+"phenotypedata.csv": All phenotypic data generated during this study and needed to replicate analyses of phenotypic change through time. Note that not all fish have all data associated with them, and therefore the total sample sizes for each phenotype are slightly different. These missing data were caused by, for instance, gill rakers breaking upon dissection, staining not working and guts having been dissected previously. This dataset includes the following variables:
   fish_id; unique identifier for the fish
   year; the calendar year in which the fish was caught
   station; unique identifier for the site of capture
