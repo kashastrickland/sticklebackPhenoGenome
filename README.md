@@ -17,7 +17,7 @@ Phenotypic and meta data for "Microevolutionary change in wild stickleback: usin
   "grl2"; length of the second gill raker in mm
   "grl3"; length of the third gill raker in mm
 
-"genomicsMetaData.csv": meta data for fish for which we sequenced the whole genomes. Raw reads can be found at ENA accession number ###. This file includes:
+"genomicsMetaData.csv": meta data for fish for which we sequenced the whole genomes and analysed in this study. Raw reads for these individuals can be found at ENA accession numbers PRJEB79151 and PRJEB58765. This file includes the following meta data:
   "fish_id"; unique identifier for the fish which is needed to link genomic data to phenotypic data
   "labID"; name for sample used in sequencing
   "Year"; year in which the fish was caught
